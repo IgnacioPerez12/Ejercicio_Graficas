@@ -1,0 +1,2 @@
+NVIDEA;Zotac gaming 1660;2;335.5
+ASUS;TFG Titan 55x;5;740.202
